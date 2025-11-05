@@ -4,7 +4,7 @@ import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'replace-with-your-secret-key'
+SECRET_KEY = 'hqjr$xe_6(-vc9((z&9q32emjsg7k^bws@#xbkm5)bj0f0o-qn'
 DEBUG = True
 ALLOWED_HOSTS = ['*']
 
